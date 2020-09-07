@@ -1,4 +1,4 @@
-# Section3
+# nuxt-blog
 
 ## Build Setup
 
